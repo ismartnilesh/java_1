@@ -1,4 +1,5 @@
-city 1: pune
-city 2: mumbai
-city 3: goa
+city 1: Pune
+city 2: Mumbai
+city 3: Goa
 city 4: Amaravati
+city 5: Nagpur
