@@ -5,3 +5,5 @@ city 4: Amaravati
 city 5: Nagpur
 city 6: Kolhapur
 city 7: satara
+
+Here, total 7 cities 
